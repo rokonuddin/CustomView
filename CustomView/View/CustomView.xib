@@ -38,7 +38,7 @@
                             <color key="tintColor" red="0.11372549019607843" green="0.59999999999999998" blue="0.51372549019607838" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <state key="normal" image="arrow_left"/>
                             <connections>
-                                <action selector="backButtonAction:" destination="-1" eventType="touchUpInside" id="L5e-6g-xsg"/>
+                                <action selector="backButtonAction:" destination="-1" eventType="touchUpInside" id="YIR-p3-TM1"/>
                             </connections>
                         </button>
                     </subviews>
